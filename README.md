@@ -2,16 +2,16 @@
 
 Olá, bem vindo ao meu perfil.
 
-Me chamo André, tenho 20 anos e sou estudante de ciências da computação no Inteli.
+Me chamo André, tenho 21 anos e sou estudante de ciências da computação no Inteli.
 
-Comecei a programar faz 1 ano e já participei de vários projetos com empresas diferentes, das que eu mais gostei são:
+Comecei a programar faz 3 anso e já participei de vários projetos com empresas diferentes, das que eu mais gostei são:
 
-- Criação de uma aplicação WEB para Hurb.
 - Criação de um modelo preditivo para o Hospital de Medicina da USP.
 - Criação de um planejador de rotas de avião para AEL.
+- Criação de um modelo de aprendizado por reforço para geração de ativos sintéticos para o BTG.
+- Criação de um modelo de Visão Computacional para Sette que identifica talhões agrícolas.
+- Criação de um modelo de LLM que tira dúvida sobre remessas internacionais com a Brastell.
   
-Atualmente estou trabalhando em conjunto com a Stone em uma aplicação escalável em sistemas distribuídos.
-
 Uma curiosidade sobre mim é que eu gosto de patinar.
 
 # Habilidades 
@@ -20,10 +20,11 @@ Uma curiosidade sobre mim é que eu gosto de patinar.
 
 Tenho conhecimentos em diversas áreas devido a diversidade de projetos na faculdade, mas as que eu mais tenho contato recentemente são:
 
-- HTML, CSS e JS
+- Python
+- SQL
+- AWS (EMR, Athena, EC2, S3)
 - React + JavaScript/Typescript
 - Node JS / Express
-- Spring Boot
 
 Abaixo está uma das linguagens mais utilizadas no meu github
 
@@ -33,4 +34,4 @@ Abaixo está uma das linguagens mais utilizadas no meu github
 
 Se quiser entrar em contato comigo, só acessar alguma dessas redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andrelessajr/)   [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/andlljr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andrelessajr/) 
